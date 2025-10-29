@@ -1,5 +1,4 @@
 import Image from 'next/image';
-import InstallButton from '@/components/Instal-Button';
 
 export default function Home() {
   return (
@@ -38,7 +37,6 @@ export default function Home() {
           >
             Documentation
           </a>
-          <InstallButton />
         </div>
       </main>
     </div>
